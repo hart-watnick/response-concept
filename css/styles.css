@@ -61,7 +61,7 @@ i{
 
 .nav-link:hover {
     left: 0px;
-    box-shadow: 0 0 10px #ff671f;
+    box-shadow: 0 0 3px #ff671f;
 }
 
 .nav-link:hover i{
